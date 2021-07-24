@@ -7,4 +7,7 @@ const $htmlCardGame = CardGame()
 
 console.log($htmlCardGame)
 
-$root.innerHTML = $htmlCardGame
+// Não usar innerHTML (por segurança)
+// $root.innerHTML = $htmlCardGame
+
+$root.insertAdjacentHTML('beforeend', $htmlCardGame)
