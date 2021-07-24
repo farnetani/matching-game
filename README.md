@@ -21,7 +21,7 @@ Este projeto foi criado com [ViteJS](https://vitejs.dev/guide/#scaffolding-your-
 
 ## :rocket: Sobre o aplicativo
 
-Jogo em Javascript feito através da playlist: https://www.youtube.com/playlist?list=PLirko8T4cEmzWZVn_ZKQbfDOuCnSZJ4va
+Jogo em Javascript feito através da playlist: [Playlist-Canal-Marco Bruno](https://www.youtube.com/playlist?list=PLirko8T4cEmzWZVn_ZKQbfDOuCnSZJ4va)
 do Marco Bruno
 <br>
 
