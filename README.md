@@ -24,6 +24,7 @@ Este projeto foi criado com [ViteJS](https://vitejs.dev/guide/#scaffolding-your-
 Jogo em Javascript feito através da playlist: [Playlist-Canal-Marco Bruno](https://www.youtube.com/playlist?list=PLirko8T4cEmzWZVn_ZKQbfDOuCnSZJ4va)
 do Marco Bruno
 <br>
+<br>
 
 ## :wrench: Instalação e Uso
 
