@@ -15,7 +15,7 @@
 
 # Matching-Game
 
-Este projeto foi criado com [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi criado com [ViteJS](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 
 <br>
 
