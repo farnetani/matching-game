@@ -1,5 +1,10 @@
 import './style.css'
 
-const $root = document.querySelector('#root')
+import CardGame from './components/CardGame'
 
-$root.textContent = 'Arlei F. Farnetani Junior'
+const $root = document.querySelector('#root')
+const $htmlCardGame = CardGame()
+
+console.log($htmlCardGame)
+
+$root.innerHTML = $htmlCardGame
